@@ -1,0 +1,2 @@
+# Project-2---Real-World-Input-and-Output
+An interactive system that can sense and respond to the world around it, and uses a creative framework for understanding human beings' relationship to the digital world. In practical use, the term most often describes art, design or other projects that use sensors and  microcontrollers to translate analog input to a software system, and/or control electro- mechanical devices such as motors, servos, lighting or other hardware.
